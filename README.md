@@ -5,6 +5,10 @@ IMERSÃO DEV_ DA ALURA - [PRIMEIRA AULA](https://imersao.dev/aulas/aula01-variav
 ASSUNTO ABORDADO:
 
 
-• VARIÁVEIS;
-• OPERAÇÕES;
+• VARIÁVEIS
+
+
+• OPERAÇÕES
+
+
 • MÉDIA
