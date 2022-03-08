@@ -1,14 +1,21 @@
 # AULA 01
 
-IMERSÃO DEV_ DA ALURA - [PRIMEIRA AULA](https://imersao.dev/aulas/aula01-variaveis-operacoes-media).
-
-## ASSUNTO ABORDADO:
+IMERSÃO DEV_ DA ALURA - [AULA/01](https://imersao.dev/aulas/aula01-variaveis-operacoes-media).
 
 
-• VARIÁVEIS
+## Conteúdo detalhado desta aula:
 
 
-• OPERAÇÕES
+• Criar uma conta no CodePen;
 
 
-• MÉDIA
+• Entender as diferenças entre HTML, CSS e JavaScript;
+
+
+• Variáveis, manipulação dos valores armazenados e a memória do computador;
+
+
+• Tipos de variáveis, como texto e inteiro;
+
+
+• Fixando a quantidade de casas decimais com a função toFixed();
