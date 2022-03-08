@@ -1,0 +1,110 @@
+* body {
+    font-family: 'Roboto Mono',monospace;
+    min-height: 400px;
+    background-image: url('https://img.freepik.com/vetores-gratis/fundo-aquarela-com-folhas-rosa_53876-100872.jpg?w=996');
+    background-color: #e096c1;
+    background-size: 250vh;
+    background-position: center bottom;
+    background-repeat: no-repeat;
+  }
+  .container {
+    padding: 20px;
+    height: 90vh;
+  }
+  .page-title {
+    text-align: center;
+    color:rgba(102, 34, 74, 0.959);
+    margin: 0px;
+  }
+  .page-subtitle {
+    text-align: center;
+    color:#000;
+    margin-top: 5px;
+  }
+  .page-logo {
+    width: 0px;
+  }
+  .alura-logo {
+    width: 50px;
+    position: absolute;
+    top: 5px;
+    right: 5px;
+  }
+  
+  input:hover, textarea:hover, input:focus, textarea:focus {
+      border-color: rgba(240, 216, 243, 0.911) ;
+      box-shadow: 5px 0px 9px #e096c1;
+      background-color: rgba(240, 216, 243, 0.911) ;
+      color: black;
+      font-weight: rgba(240, 216, 243, 0.911);
+  }
+  
+ main{
+    display: flex;
+    width: 50vw;
+    height: 10vh;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .container{
+    display: flex;
+    flex-direction: column;
+    background: #e096c1;
+    width: 400px;
+    height: 550px;
+    align-items: center;
+    justify-content: space-evenly;
+    border-radius: 60px;
+    box-shadow: 0 0 10px black;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .input {
+    display: flex;
+    width: 300px;
+    height: 50px;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .input input {
+    width: 200px;
+    height: 50px;
+    border-radius: 5px;
+    border:none;
+    outline: 0;
+    font: bold 1.5rem serif;
+    text-align: center;
+  }
+  
+  .input label {
+    font: bold 1.5rem serif;
+  }
+  
+  button{
+    width: 300px;
+    height: 40px;
+    font: bold 1.2rem serif;
+    background: rgba(240, 216, 243, 0.911);
+    color: #000;
+    outline: none;
+    border-radius: 5px;
+    cursor: pointer;
+  } 
+  
+  .result{
+    display: flex;
+    margin-top: 20px;
+    align-items: center;
+    width: 300px;
+    height: 150px;
+    border-radius: 5px;
+    font: 'Lucida Sans' 1.5rem serif;
+    box-shadow: 0px 0px 10px black;
+    background: rgba(240, 216, 243, 0.911);
+    color: #000;
+    padding: 20px;
+    box-sizing: border-box;
+    user-select: none;
+  }
